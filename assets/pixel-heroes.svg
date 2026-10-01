@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" shape-rendering="crispEdges">
+<defs>
+ <linearGradient id="bg" x2="1"><stop stop-color="#070A10"/><stop offset=".5" stop-color="#0B1220"/><stop offset="1" stop-color="#070A10"/></linearGradient>
+ <style>
+ .a{animation:f 3.2s ease-in-out infinite}.b{animation:f 3.2s .6s ease-in-out infinite}.c{animation:f 3.2s 1.2s ease-in-out infinite}.d{animation:f 3.2s 1.8s ease-in-out infinite}
+ .blink{animation:p 1.7s steps(2) infinite}.code{animation:s 7s linear infinite}
+ @keyframes f{50%{transform:translateY(-5px)}}@keyframes p{50%{opacity:.25}}@keyframes s{to{transform:translateX(90px)}}
+ </style>
+</defs>
+<rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+<g opacity=".12" stroke="#38BDF8"><path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200"/><path d="M100 0V260M200 0V260M300 0V260M400 0V260M500 0V260M600 0V260M700 0V260M800 0V260M900 0V260M1000 0V260M1100 0V260"/></g>
+
+<!-- red/gold armored engineer -->
+<g class="a" transform="translate(155 44)">
+ <rect x="36" y="0" width="40" height="12" fill="#991B1B"/><rect x="24" y="12" width="64" height="48" fill="#B91C1C"/><rect x="36" y="20" width="40" height="28" fill="#F59E0B"/>
+ <rect x="32" y="60" width="48" height="58" fill="#991B1B"/><rect x="46" y="73" width="20" height="20" fill="#67E8F9" class="blink"/>
+ <rect x="12" y="64" width="20" height="64" fill="#B91C1C"/><rect x="80" y="64" width="20" height="64" fill="#B91C1C"/>
+ <rect x="35" y="118" width="18" height="58" fill="#7F1D1D"/><rect x="60" y="118" width="18" height="58" fill="#7F1D1D"/>
+ <rect x="27" y="176" width="30" height="10" fill="#F59E0B"/><rect x="56" y="176" width="30" height="10" fill="#F59E0B"/>
+</g>
+
+<!-- red/blue agile web hero -->
+<g class="b" transform="translate(410 47)">
+ <rect x="34" y="0" width="44" height="50" fill="#DC2626"/><rect x="41" y="14" width="10" height="8" fill="#E0F2FE"/><rect x="61" y="14" width="10" height="8" fill="#E0F2FE"/>
+ <rect x="28" y="50" width="56" height="66" fill="#DC2626"/><rect x="40" y="67" width="32" height="8" fill="#111827"/><rect x="48" y="58" width="16" height="50" fill="#1D4ED8"/>
+ <rect x="8" y="55" width="20" height="67" fill="#1D4ED8"/><rect x="84" y="55" width="20" height="67" fill="#1D4ED8"/>
+ <rect x="32" y="116" width="20" height="62" fill="#1D4ED8"/><rect x="60" y="116" width="20" height="62" fill="#1D4ED8"/>
+ <path d="M8 78H-28V70H8M104 78h36v8h-36" stroke="#E2E8F0" stroke-width="4" stroke-dasharray="4 4"/>
+</g>
+
+<!-- thunder warrior -->
+<g class="c" transform="translate(675 42)">
+ <rect x="35" y="5" width="44" height="46" fill="#E5E7EB"/><rect x="28" y="0" width="58" height="12" fill="#94A3B8"/>
+ <rect x="27" y="51" width="60" height="66" fill="#334155"/><rect x="37" y="58" width="10" height="10" fill="#EF4444"/><rect x="67" y="58" width="10" height="10" fill="#EF4444"/>
+ <rect x="7" y="58" width="20" height="66" fill="#94A3B8"/><rect x="87" y="58" width="20" height="66" fill="#94A3B8"/>
+ <rect x="31" y="117" width="22" height="61" fill="#1E3A8A"/><rect x="61" y="117" width="22" height="61" fill="#1E3A8A"/>
+ <rect x="105" y="88" width="44" height="12" fill="#CBD5E1"/><rect x="120" y="64" width="28" height="38" fill="#64748B"/>
+ <path d="M136 48l-10 15h12l-9 18" fill="none" stroke="#67E8F9" stroke-width="5" class="blink"/>
+</g>
+
+<!-- shield soldier -->
+<g class="d" transform="translate(935 45)">
+ <rect x="35" y="0" width="44" height="48" fill="#1D4ED8"/><rect x="48" y="5" width="18" height="9" fill="#F8FAFC"/>
+ <rect x="27" y="48" width="60" height="68" fill="#1E40AF"/><rect x="48" y="55" width="18" height="18" fill="#F8FAFC"/>
+ <rect x="7" y="55" width="20" height="68" fill="#1E40AF"/><rect x="87" y="55" width="20" height="68" fill="#1E40AF"/>
+ <rect x="31" y="116" width="22" height="62" fill="#172554"/><rect x="61" y="116" width="22" height="62" fill="#172554"/>
+ <circle cx="112" cy="91" r="38" fill="#B91C1C"/><circle cx="112" cy="91" r="29" fill="#F8FAFC"/><circle cx="112" cy="91" r="20" fill="#1D4ED8"/><path d="M112 75l5 11h12l-10 7 4 12-11-7-11 7 4-12-10-7h12z" fill="#F8FAFC"/>
+</g>
+
+<!-- understated code skyline -->
+<g transform="translate(40 222)" opacity=".55" class="code">
+ <rect width="1120" height="1" fill="#334155"/>
+ <rect x="0" y="-12" width="70" height="4" fill="#22D3EE"/><rect x="82" y="-12" width="34" height="4" fill="#475569"/><rect x="128" y="-12" width="90" height="4" fill="#8B5CF6"/>
+ <rect x="745" y="-12" width="55" height="4" fill="#475569"/><rect x="812" y="-12" width="110" height="4" fill="#22D3EE"/><rect x="934" y="-12" width="70" height="4" fill="#8B5CF6"/>
+</g>
+</svg>
