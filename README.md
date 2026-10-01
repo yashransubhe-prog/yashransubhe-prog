@@ -14,9 +14,9 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<div>
+
+
 
 ## 01 / About
 
@@ -28,14 +28,9 @@ I enjoy the full engineering path — taking an idea through **interface, logic,
 const mindset = "build until you understand";
 ```
 
-</td>
-<td width="42%" align="center">
 
-<img width="390" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer working at computer"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -57,15 +52,60 @@ const mindset = "build until you understand";
 
 <br/>
 
-## 03 / Engineering Stack
+## 03 / What I Build With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering
+`Java` &nbsp; `JavaScript` &nbsp; `TypeScript` &nbsp; `Dart`
+
+**Foundation:** DSA • OOP • Core CS  
+**Focus:** readable logic, debugging, problem solving
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Product Engineering
+`React` &nbsp; `Flutter` &nbsp; `Node.js` &nbsp; `Express`
+
+**Build:** responsive interfaces • APIs • application flows  
+**Approach:** idea → interface → logic → working product
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Data & Backend
+`PostgreSQL` &nbsp; `Prisma` &nbsp; `Firebase`
+
+**Work with:** data models • persistence • authentication  
+**Learning:** backend architecture and scalable systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Systems Direction
+`Git` &nbsp; `GitHub` &nbsp; `VS Code`
+
+**Exploring:** Security • Cloud • System Design  
+**Mindset:** understand the complete system, not only the UI
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,dart,ts,js,html,css,flutter,react,nodejs,express,postgres,prisma,firebase,git,github,vscode&theme=dark" alt="Engineering stack"/>
+
+<img src="https://skillicons.dev/icons?i=java,dart,ts,js,flutter,react,nodejs,express,postgres,prisma,firebase,git,github,vscode&theme=dark&perline=14" alt="Technology stack"/>
+
+<br/><br/>
+
+<code>FOUNDATIONS</code> ──► <code>BUILD</code> ──► <code>DATA</code> ──► <code>SECURE</code> ──► <code>SHIP</code>
+
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/yashransubhe-prog/yashransubhe-prog/main/assets/tech-orbit.svg" width="100%" alt="Technology orbit"/>
 
 <br/>
 
