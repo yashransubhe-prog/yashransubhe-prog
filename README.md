@@ -63,11 +63,74 @@ const currentFocus = {
 </tr>
 </table>
 
+
+<br/>
+
+## 🦸 Avengers × Engineering
+
+<div align="center">
+
+> **Different strengths. One system.**  
+> A small Avengers-inspired layer for the profile — engineering first, fandom second.
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### ⚙️ IRON MAN
+`BUILD`
+
+**Engineering & iteration**
+
+Prototype → test → improve.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🛡️ CAPTAIN AMERICA
+`DISCIPLINE`
+
+**Consistency & fundamentals**
+
+Strong foundations before shortcuts.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### ⚡ THOR
+`POWER`
+
+**Execution & performance**
+
+Turn ideas into working systems.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🕷️ SPIDER-MAN
+`CURIOSITY`
+
+**Learning & problem solving**
+
+Understand how everything connects.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`ASSEMBLE THE STACK` &nbsp; • &nbsp; Java &nbsp; • &nbsp; Flutter &nbsp; • &nbsp; React &nbsp; • &nbsp; Node &nbsp; • &nbsp; Security &nbsp; • &nbsp; Cloud
+
+</div>
+
 <br/>
 
 ## 🦾 Suit Up: Engineering Stack
 
-> A subtle superhero-inspired layer: **discipline, systems, iteration and engineering** — not a fan-page theme.
+> **Suit up the stack.** A restrained superhero-inspired visual language around real engineering skills.
 
 <table>
 <tr>
