@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300">
+<defs><linearGradient id="b"><stop stop-color="#070a10"/><stop offset="1" stop-color="#0a121d"/></linearGradient><linearGradient id="l"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f59e0b"/></linearGradient><style>text{font-family:'Segoe UI',Arial}.m{font-family:Consolas,monospace}.d{stroke-dasharray:8 13;animation:d 7s linear infinite}.p{animation:p 2.4s ease-in-out infinite}@keyframes d{to{stroke-dashoffset:-210}}@keyframes p{50%{opacity:.25}}</style></defs>
+<rect width="1400" height="300" rx="26" fill="url(#b)"/>
+<text x="52" y="48" fill="#64748b" font-size="11" class="m">ENGINEERING MAP / FROM IDEA TO SYSTEM</text>
+<path d="M100 160C260 70 360 250 520 160S780 70 940 160s260 90 360 0" fill="none" stroke="#243244" stroke-width="4"/>
+<path d="M100 160C260 70 360 250 520 160S780 70 940 160s260 90 360 0" fill="none" stroke="url(#l)" stroke-width="3" class="d"/>
+<g transform="translate(100 160)"><circle r="32" fill="#0d1622" stroke="#22d3ee"/><text y="5" text-anchor="middle" fill="#e2e8f0" font-size="11" class="m">IDEA</text></g>
+<g transform="translate(400 177)"><circle r="32" fill="#0d1622" stroke="#38bdf8"/><text y="5" text-anchor="middle" fill="#e2e8f0" font-size="11" class="m">UI</text></g>
+<g transform="translate(700 123)"><circle r="32" fill="#0d1622" stroke="#8b5cf6"/><text y="5" text-anchor="middle" fill="#e2e8f0" font-size="11" class="m">LOGIC</text></g>
+<g transform="translate(1000 181)"><circle r="32" fill="#0d1622" stroke="#2dd4bf"/><text y="5" text-anchor="middle" fill="#e2e8f0" font-size="11" class="m">DATA</text></g>
+<g transform="translate(1300 160)"><circle r="32" fill="#0d1622" stroke="#f59e0b"/><circle r="6" fill="#34d399" class="p"/><text y="55" text-anchor="middle" fill="#94a3b8" font-size="10" class="m">SHIP</text></g>
+</svg>
