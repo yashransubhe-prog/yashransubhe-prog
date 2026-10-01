@@ -104,8 +104,8 @@ Core engineering themes include **Flutter/Dart development, Firebase-backed real
 
 **Zero Trust Cloud Security Virtual Internship** — EduSkills Foundation®
 
-**ServiceNow learning / VIP**  
-Focused on building familiarity with the ServiceNow ecosystem, enterprise workflows and platform-oriented development.
+**ServiceNow Virtual Internship Program (VIP)** — ServiceNow University × AICTE × TheSmartBridge  
+Hands-on exposure to **ServiceNow platform fundamentals, administration, Agentic AI concepts, Flow Designer / workflow automation, Automated Test Framework (ATF), reports & dashboards, and CSA exam preparation**.
 
 **Cybersecurity**
 - Cisco — Introduction to Cybersecurity
@@ -132,9 +132,11 @@ NSRIT in collaboration with AICTE
 
 ## Beyond Code
 
-**HERITAGE — The Epic Indian History**
+### 🏛️ HERITAGE — The Epic Indian History
 
-Independent digital publication combining software, structured historical research and responsive web design to make Indian history more accessible through a modern digital experience.
+Independent digital history platform combining **structured historical research, long-form digital publishing and responsive web design**. The site includes articles, historical timelines, Indian legends and published books, presented through a modern browsing experience.
+
+[**Visit Live Website →**](https://heritage.bharatwisdom.com/)
 
 ---
 
