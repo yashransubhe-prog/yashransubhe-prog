@@ -20,6 +20,10 @@ B.Tech CSE student at **NSRIT (2024–2028)** building mobile and web products w
 
 ---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/yashransubhe-prog/yashransubhe-prog/main/assets/product-workspace-v2.svg" width="100%" alt="Product engineering workspace"/>
+</div>
+
 ## Featured Work
 
 ### 🎧 Cosmos Music
@@ -99,6 +103,10 @@ Core engineering themes include **Flutter/Dart development, Firebase-backed real
 </div>
 
 ---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/yashransubhe-prog/yashransubhe-prog/main/assets/engineering-growth-v2.svg" width="100%" alt="Engineering growth"/>
+</div>
 
 ## Experience & Credentials
 
