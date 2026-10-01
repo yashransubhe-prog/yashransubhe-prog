@@ -1,131 +1,162 @@
 <div align="center">
+<img src="./assets/hero.svg" width="100%" alt="Yash Ransubhe — developer profile"/>
 
-# YASH RANSUBHE
+<br/>
 
-### Building software that investigates, protects and explains.
+<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yashransubhe-prog?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p>
-  <a href="https://codeforensic-web.onrender.com/"><img src="https://img.shields.io/badge/Launch-CodeForensic-6C4BFF?style=for-the-badge&logo=render&logoColor=white" alt="Launch CodeForensic"></a>
-  <a href="https://github.com/yashransubhe-prog/codeforensic"><img src="https://img.shields.io/badge/Featured-CodeForensic-111827?style=for-the-badge&logo=github&logoColor=white" alt="CodeForensic"></a>
-</p>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=900&color=7C5CFF&center=true&vCenter=true&width=900&lines=Software+Investigation+%E2%86%92+Security+%E2%86%92+AI;I+build+products%2C+not+just+screens.;Every+change+leaves+evidence." alt="Animated intro">
-
-</div>
-
----
-
-## 01 / PROFILE
-
-I am **Yash**, a Computer Science student building full-stack products with a focus on **software investigation, security, AI-assisted analysis and high-quality product design**.
-
-My current flagship project is **CodeForensic** — a forensic workspace that turns repositories, web targets and technical evidence into an investigation experience.
-
-<div align="center">
-
-| Focus | What I build |
-|---|---|
-| **Software Intelligence** | Evidence-first repository analysis and dependency tracing |
-| **Security** | Static/heuristic findings, web-security signals and Windows telemetry direction |
-| **AI** | Project-aware assistance grounded in technical evidence |
-| **Product Engineering** | React interfaces, backend APIs, databases, deployment and UX |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=650&color=7C5CFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+%40+NSRIT;Full-Stack+Developer+%E2%80%A2+Product+Builder;Cybersecurity+%2B+Cloud+Architecture+Learner;I+prefer+building+working+systems+over+demo-only+screens" alt="animated role intro"/>
 
 </div>
 
 ---
 
-## 02 / FEATURED SYSTEM — CODEFORENSIC
+## `01 // IDENTITY`
 
-<div align="center">
+<table>
+<tr>
+<td width="62%" valign="top">
 
-### Investigate. Trace. Explain.
+### Hello — I'm Yash.
 
-**A forensic workspace for understanding code, dependencies, security signals, change history and website behavior.**
+A **Computer Science Engineering student and Full-Stack Developer** interested in the point where software engineering, cybersecurity, cloud architecture and product design meet.
 
-<a href="https://codeforensic-web.onrender.com/">
-  <img src="https://img.shields.io/badge/LIVE_PRODUCT-OPEN_NOW-19B88A?style=for-the-badge" alt="Live Product">
-</a>
-<a href="https://github.com/yashransubhe-prog/codeforensic">
-  <img src="https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github" alt="Source">
-</a>
+I like taking an idea beyond the mock-up stage: designing the interface, building the logic behind it, connecting data, debugging the failures and finally getting the system deployed.
 
-</div>
+My current learning path is deliberately broad: **stronger core CS + Java/DSA + full-stack engineering + security + cloud**.
 
-### What it already does
+</td>
+<td width="38%" valign="top">
 
-- Command Center for investigation priorities
-- Evidence Explorer for project context
-- Dependency Map using verified repository relationships
-- Security findings and risk signals
-- Website X-Ray for HTTP, headers, document and SEO evidence
-- Change History for available Git evidence
-- Forensic AI with Gemini integration
-- Early Windows Desktop Agent for local CPU / RAM / uptime telemetry
+```yaml
+name: Yash Ransubhe
+education: B.Tech CSE
+college: NSRIT
+period: 2024 — 2028
 
-### System path
+focus:
+  - Full-Stack Development
+  - Cybersecurity
+  - Cloud Architecture
+  - Product Engineering
 
-```text
-Repository / Website
-        │
-        ▼
-   CodeForensic
-        │
-        ├── Evidence Explorer
-        ├── Dependency Intelligence
-        ├── Security Analysis
-        ├── Website X-Ray
-        ├── Change History
-        └── Forensic AI
+status: building
 ```
 
-> **Engineering rule:** measured evidence is more valuable than impressive-looking fake data.
+</td>
+</tr>
+</table>
+
+<img src="./assets/now.svg" width="100%" alt="Current engineering signal"/>
 
 ---
 
-## 03 / PROJECT UNIVERSE
+## `02 // FIELD NOTES`
+
+Based on my public professional profile, my work spans more than one type of software:
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎧 Audio Engineering
+**Cosmos Music**
+
+Cross-platform audio application work using Flutter/Dart, with attention to UI rendering, state management, local file indexing and performance.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Digital Security
+**The Neo Vault**
+
+A security-oriented mobile utility direction focused on digital footprint management, privacy, secure storage and stronger device-level protection concepts.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Real-time Products
+**EventSnap**
+
+Real-time event-sharing architecture using Firebase/Cloud Firestore concepts, external media delivery and asynchronous image-loading work.
+
+</td>
+</tr>
+</table>
+
+### 🏆 Signal from outside GitHub
+
+**First Place — Internal Hackathon for Smart India Hackathon (SIH) 2025**  
+NSRIT in collaboration with AICTE.
+
+---
+
+## `03 // ENGINEERING CONSOLE`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,dart,flutter,ts,js,react,nodejs,express,postgres,prisma,firebase,git,github,vscode&perline=14" alt="Technology stack"/>
+
+<br/><br/>
+
+| BUILD | DATA | SYSTEMS | LEARNING |
+|:---:|:---:|:---:|:---:|
+| React · Flutter · TypeScript | PostgreSQL · Prisma · Firebase | Git · GitHub · REST APIs | Java · DSA · Security · AWS |
+
+</div>
+
+> I don't treat this icon wall as a claim of mastery. It is a map of technologies I have used or am actively learning.
+
+---
+
+## `04 // PROJECT TRANSMISSIONS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 CodeForensic
-**Software investigation platform**
+### 🛡️ NEO VAULT SECURITY
+**Security / privacy engineering**
 
-React · TypeScript · Express · Prisma · PostgreSQL · Gemini · React Flow
+A project space for exploring defensive software, privacy-oriented utilities and secure product thinking.
 
-[Open Repository](https://github.com/yashransubhe-prog/codeforensic) · [Live App](https://codeforensic-web.onrender.com/)
+[**ENTER REPOSITORY →**](https://github.com/yashransubhe-prog/Neo-Vault-Security)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡 Neo Vault Security
-**Security-focused project**
+### 🎵 COSMOS MUSIC ENGINE
+**Cross-platform media experience**
 
-Exploring secure software concepts and defensive engineering.
+A music-product direction connected to my work on cross-platform audio, local libraries and responsive interfaces.
 
-[Open Repository](https://github.com/yashransubhe-prog/Neo-Vault-Security)
+[**ENTER REPOSITORY →**](https://github.com/yashransubhe-prog/Cosmos-Music-Engine)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎧 Cosmos Music Engine
-**Media / experience project**
+### 🏔️ JEEVANSETU
+**AI / emergency-response prototype**
 
-A different product direction focused on interactive music experience.
+Work around an AI-assisted landslide and emergency-response use case developed in a hackathon context.
 
-[Open Repository](https://github.com/yashransubhe-prog/Cosmos-Music-Engine)
+[**ENTER REPOSITORY →**](https://github.com/yashransubhe-prog/jeevansetu)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏔 JeevanSetu
-**AI-assisted disaster / landslide project**
+### 🧪 SOFTWARE INVESTIGATION
+**Developer tooling / security**
 
-Prototype work around emergency response and landslide-risk use cases.
+An active engineering experiment around understanding repositories, evidence and software behavior.
 
-[Open Repository](https://github.com/yashransubhe-prog/jeevansetu)
+[**EXPLORE MY REPOSITORIES →**](https://github.com/yashransubhe-prog?tab=repositories)
 
 </td>
 </tr>
@@ -133,86 +164,72 @@ Prototype work around emergency response and landslide-risk use cases.
 
 ---
 
-## 04 / TECH STACK
+## `05 // VERIFIED LEARNING`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,react,nodejs,express,postgres,prisma,git,github,vscode&perline=11" alt="Technology stack">
-
-</div>
-
-### Current working stack
-
-| Layer | Technologies |
+| Credential / Learning Area | Signal |
 |---|---|
-| Frontend | React 19, Vite, TypeScript, Motion, React Flow, Recharts |
-| Backend | Node.js, Express 5, TypeScript |
-| Database | PostgreSQL, Neon, Prisma |
-| Auth | JWT, bcrypt, Google OAuth |
-| AI | Gemini API |
-| Deployment | Render, Neon, GitHub Actions |
-| Desktop direction | Electron + Node.js OS APIs |
-| Development | VS Code, Git, GitHub |
-
----
-
-## 05 / CURRENT BUILD MODE
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashransubhe-prog&theme=transparent&hide_border=true&ring=7C5CFF&fire=19B88A&currStreakLabel=7C5CFF" alt="GitHub streak">
-
-</div>
-
-I am currently focused on:
-
-- making CodeForensic easier to understand at first glance;
-- improving security evidence quality and remediation detail;
-- strengthening dependency extraction;
-- grounding Forensic AI more deeply in project evidence;
-- expanding the Windows desktop companion from browser telemetry to real OS-level signals.
-
----
-
-## 06 / ENGINEERING PRINCIPLES
-
-<div align="center">
-
-| 01 | 02 | 03 | 04 |
-|---|---|---|---|
-| **Real data first** | **Explain the evidence** | **Simple before complex** | **No fake metrics** |
-
-</div>
-
-I prefer products where a user can understand the purpose in seconds, then go deeper when needed.
-
----
-
-## 07 / LIVE SIGNAL
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashransubhe-prog&bg_color=00000000&color=7C5CFF&line=19B88A&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph">
+| **Cisco Cybersecurity Essentials** | Security foundations |
+| **Introduction to Cybersecurity — Cisco** | Cybersecurity fundamentals |
+| **AWS Solutions Architect Associate learning** | Cloud architecture direction |
+| **B.Tech Computer Science & Engineering — NSRIT** | Core CS foundation |
 
 </div>
 
 ---
 
-## 08 / CONTACT & EXPLORE
+## `06 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<a href="https://github.com/yashransubhe-prog">
-  <img src="https://img.shields.io/badge/GitHub-yashransubhe--prog-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://codeforensic-web.onrender.com/">
-  <img src="https://img.shields.io/badge/Live-CodeForensic-6C4BFF?style=for-the-badge&logo=render&logoColor=white" alt="CodeForensic">
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashransubhe-prog&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8&icon_color=22D3EE" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashransubhe-prog&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8" alt="Top languages"/>
 
-<br><br>
+<br/>
 
-### BUILDING → TESTING → INVESTIGATING → IMPROVING
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashransubhe-prog&bg_color=00000000&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Development%20Signal" alt="Contribution activity"/>
 
-<sub>Profile designed as an engineering portfolio, not a badge collection.</sub>
+</div>
+
+---
+
+## `07 // CURRENT MISSION`
+
+```text
+[ CORE CS ] ──────► stronger fundamentals
+     │
+     ├──► [ JAVA + DSA ] ──────► interview problem solving
+     │
+     ├──► [ FULL STACK ] ──────► production-ready software
+     │
+     ├──► [ SECURITY ] ────────► safer systems
+     │
+     └──► [ CLOUD ] ───────────► scalable architecture
+
+                          ↓
+                   SOFTWARE ENGINEER
+```
+
+I am currently in the phase where I want every new project to teach me something deeper than UI alone: architecture, performance, security, data flow, deployment or debugging.
+
+---
+
+## `08 // CONNECT`
+
+<div align="center">
+
+### Want to talk about software, projects, hackathons or engineering?
+
+<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/LinkedIn-Yash_Ransubhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/Email-yashransubhe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yashransubhe-prog&style=for-the-badge&color=7c3aed&label=PROFILE+SIGNAL" alt="Profile views"/>
+
+### `BUILD → TEST → BREAK → LEARN → REBUILD`
+
+<sub>Designed as a living engineering profile. Dynamic GitHub signals update as the work changes.</sub>
 
 </div>
