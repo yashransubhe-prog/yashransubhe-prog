@@ -4,13 +4,13 @@
 
 # Yash Ransubhe
 
-### Flutter • TypeScript / JavaScript • Node.js • Computer Science
+### Full-Stack Developer • Flutter / Dart • TypeScript / Node.js
 
-I’m a CSE student at **NSRIT** who enjoys turning ideas into complete software — from mobile interfaces and web applications to APIs and data.
+B.Tech CSE student at **NSRIT (2024–2028)** building mobile and web products with a growing focus on **security, cloud and scalable software engineering**.
 
-<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/yashransubhe-prog?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yashransubhe-prog?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -20,20 +20,39 @@ I’m a CSE student at **NSRIT** who enjoys turning ideas into complete software
 
 ---
 
-## Featured Projects
+## Featured Work
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **Neo Vault** | Security and privacy-oriented software exploration. | Security • Mobile | [Repo](https://github.com/yashransubhe-prog/Neo-Vault-Security) |
-| **Cosmos Music** | Cross-platform music experience built with Flutter and Dart. | Flutter • Dart | [Repo](https://github.com/yashransubhe-prog/Cosmos-Music-Engine) |
-| **JeevanSetu** | Emergency-response prototype developed in a hackathon context. | AI • App Development | [Repo](https://github.com/yashransubhe-prog/jeevansetu) |
-| **Project #4** | **[TODO: choose your strongest fourth project]** | [TODO] | [Demo] • [Repo] |
+### 🎧 Cosmos Music
+Cross-platform audio application built with **Flutter and Dart**, with local media-library features and a performance-focused interface.
 
-> **Next upgrade:** add a real screenshot/GIF and live demo to each featured repository. That proof of work matters more than adding more profile decoration.
+`Flutter` `Dart` `Audio` `Mobile`
+
+[**View Repository →**](https://github.com/yashransubhe-prog/Cosmos-Music-Engine)
+
+### 📸 EventSnap
+Real-time event-sharing application designed around **Firebase Cloud Firestore**, media delivery and responsive image-loading workflows.
+
+`Firebase` `Firestore` `Real-time Data`
+
+**Project details available on LinkedIn**
+
+### 🛡️ Neo Vault
+Mobile security utility exploring **digital privacy, secure storage and defensive software design**.
+
+`Security` `Privacy` `Mobile`
+
+[**View Repository →**](https://github.com/yashransubhe-prog/Neo-Vault-Security)
+
+### 🏔️ JeevanSetu
+Emergency-response prototype developed in a hackathon context, exploring technology-assisted response experiences.
+
+`AI` `Emergency Response` `Prototype`
+
+[**View Repository →**](https://github.com/yashransubhe-prog/jeevansetu)
 
 ---
 
-## Tech I Work With
+## Tech Stack
 
 <div align="center">
 
@@ -42,40 +61,63 @@ I’m a CSE student at **NSRIT** who enjoys turning ideas into complete software
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
 ---
 
-## Experience & Learning
+## Experience & Credentials
 
-**ServiceNow Virtual Internship** — [TODO: add exact program title, dates and one concrete outcome]  
-**Certifications / Micro-Certifications** — [TODO: add only verified certification names]
+**Zero Trust Cloud Security Virtual Internship** — EduSkills Foundation®
 
-Alongside project work, I’m strengthening **Java, DSA and Core CS fundamentals** and learning more about **security, cloud and system design**.
+**Cybersecurity**
+- Cisco — Introduction to Cybersecurity
+- Cisco — Junior Cybersecurity Analyst Career Path
+- NASSCOM — Cisco Cybersecurity Essentials
+- Zscaler — Fundamentals of Cybersecurity (EDU-102)
+- Zscaler — Introduction to Networking for Cyber Professionals
+
+**Cloud & Industry Learning**
+- Ultimate AWS Certified Solutions Architect Associate 2026 — Udemy
+- Mastercard Cybersecurity Job Simulation — Forage
+- Tata Data Visualisation Job Simulation — Forage
 
 ---
 
-## What I Care About
+## Recognition
 
-**Build it. Understand it. Improve it.**
+**🥇 First Place — Internal Hackathon for Smart India Hackathon 2025**  
+NSRIT in collaboration with AICTE
 
-I value software that works, code I can explain, and projects that show what I actually learned while building them.
+**Smart India Hackathon 2025** — AICTE credential
+
+---
+
+## Beyond Code
+
+**HERITAGE — The Epic Indian History**
+
+An independent digital publication combining technology, structured historical content and responsive web design to make Indian history more accessible online.
 
 ---
 
 <div align="center">
 
-### Let’s connect
+### Build it. Understand it. Improve it.
 
-**Email:** yashransubhe@gmail.com  
-**LinkedIn:** [yash-ransubhe-252258287](https://www.linkedin.com/in/yash-ransubhe-252258287)  
-**Resume:** [TODO: add resume link]
+I’m currently strengthening **Java, DSA and Core CS** while building deeper skills in **security, cloud and system design**.
+
+<br/>
+
+<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
