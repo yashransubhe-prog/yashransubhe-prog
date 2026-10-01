@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs><linearGradient id="b"><stop stop-color="#080b12"/><stop offset="1" stop-color="#0a1320"/></linearGradient><style>text{font-family:'Segoe UI',Arial}.m{font-family:Consolas,monospace}.r{transform-origin:940px 110px;animation:r 20s linear infinite}.p{animation:p 2s ease-in-out infinite}@keyframes r{to{transform:rotate(360deg)}}@keyframes p{50%{opacity:.3}}</style></defs>
+<rect width="1200" height="220" rx="24" fill="url(#b)"/>
+<g transform="translate(42 45)"><text fill="#64748b" font-size="11" class="m">CURRENT VECTOR</text><text y="42" fill="#f8fafc" font-size="28" font-weight="700">Build deeper. Understand the system.</text><text y="78" fill="#94a3b8" font-size="13">Java + DSA  •  Full-stack engineering  •  Security  •  Cloud  •  System design</text><text y="116" fill="#67e8f9" font-size="11" class="m">BUILD → TEST → DEBUG → LEARN → IMPROVE</text></g>
+<g transform="translate(940 110)"><circle r="66" fill="none" stroke="#334155"/><circle r="45" fill="none" stroke="#312e81" stroke-dasharray="5 8"/><g class="r"><circle cy="-66" r="6" fill="#22d3ee"/><circle cx="66" r="5" fill="#8b5cf6"/><circle cy="66" r="5" fill="#f59e0b"/><circle cx="-66" r="5" fill="#34d399"/></g><circle r="18" fill="#101827" stroke="#22d3ee"/><circle r="5" fill="#67e8f9" class="p"/></g>
+</svg>
