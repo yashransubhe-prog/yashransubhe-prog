@@ -69,16 +69,7 @@ const currentFocus = {
 <br/>
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%"><img height="170" src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" alt="Iron Man"/></td>
-<td align="center" width="25%"><img height="170" src="https://media.giphy.com/media/xTiTnHvXHHxOTcdmxO/giphy.gif" alt="Spider-Man"/></td>
-<td align="center" width="25%"><img height="170" src="https://media.giphy.com/media/EOfarA6ZUqzZu/giphy.gif" alt="Thor"/></td>
-<td align="center" width="25%"><img height="170" src="https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif" alt="Captain America"/></td>
-</tr>
-</table>
-
+<img src="https://raw.githubusercontent.com/yashransubhe-prog/yashransubhe-prog/main/assets/pixel-heroes.svg" width="100%" alt="Pixel-art superhero engineering accents"/>
 </div>
 
 <br/>
