@@ -1,235 +1,216 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090E1A,45:4C1D95,100:0891B2&text=YASH%20RANSUBHE&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REBUILD&descAlignY=58&animation=fadeIn"/>
+
 <div align="center">
-<img src="./assets/hero.svg" width="100%" alt="Yash Ransubhe — developer profile"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2100&pause=550&color=67E8F9&center=true&vCenter=true&width=900&lines=%3E+Computer+Science+Engineer+in+the+making;%3E+Full-Stack+%2B+Flutter+Product+Builder;%3E+Cybersecurity+%2B+Cloud+Explorer;%3E+Turning+ideas+into+working+systems..." />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/yashransubhe-prog?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=650&color=7C5CFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+%40+NSRIT;Full-Stack+Developer+%E2%80%A2+Product+Builder;Cybersecurity+%2B+Cloud+Architecture+Learner;I+prefer+building+working+systems+over+demo-only+screens" alt="animated role intro"/>
+<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yashransubhe-prog?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/></a>
+<img src="https://komarev.com/ghpvc/?username=yashransubhe-prog&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS"/>
 
 </div>
 
----
-
-## `01 // IDENTITY`
+<br/>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="55%" valign="middle">
 
-### Hello — I'm Yash.
+## 👋 Hey, I'm Yash
 
-A **Computer Science Engineering student and Full-Stack Developer** interested in the point where software engineering, cybersecurity, cloud architecture and product design meet.
-
-I like taking an idea beyond the mock-up stage: designing the interface, building the logic behind it, connecting data, debugging the failures and finally getting the system deployed.
-
-My current learning path is deliberately broad: **stronger core CS + Java/DSA + full-stack engineering + security + cloud**.
-
-</td>
-<td width="38%" valign="top">
-
-```yaml
-name: Yash Ransubhe
-education: B.Tech CSE
-college: NSRIT
-period: 2024 — 2028
-
-focus:
-  - Full-Stack Development
-  - Cybersecurity
-  - Cloud Architecture
-  - Product Engineering
-
-status: building
+```javascript
+const yash = {
+  role: "CSE Student + Developer",
+  college: "NSRIT",
+  buildMode: "FULL STACK",
+  interests: [
+    "Product Engineering",
+    "Cybersecurity",
+    "Cloud",
+    "Flutter",
+    "Java + DSA"
+  ],
+  philosophy: "learn by building",
+  currentState: "shipping + improving"
+};
 ```
 
-</td>
-</tr>
-</table>
+I enjoy taking an idea from **“what if?” → interface → logic → data → deployment**.
 
-<img src="./assets/now.svg" width="100%" alt="Current engineering signal"/>
-
----
-
-## `02 // FIELD NOTES`
-
-Based on my public professional profile, my work spans more than one type of software:
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎧 Audio Engineering
-**Cosmos Music**
-
-Cross-platform audio application work using Flutter/Dart, with attention to UI rendering, state management, local file indexing and performance.
+I am building my engineering foundation across software development, security, cloud and problem solving — while making projects that actually run.
 
 </td>
-<td width="33%" valign="top">
+<td width="45%" align="center" valign="middle">
 
-### 🔐 Digital Security
-**The Neo Vault**
-
-A security-oriented mobile utility direction focused on digital footprint management, privacy, secure storage and stronger device-level protection concepts.
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Real-time Products
-**EventSnap**
-
-Real-time event-sharing architecture using Firebase/Cloud Firestore concepts, external media delivery and asynchronous image-loading work.
+<img width="390" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer working at computer"/>
 
 </td>
 </tr>
 </table>
 
-### 🏆 Signal from outside GitHub
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" alt="Animated developer technology banner"/>
 
-**First Place — Internal Hackathon for Smart India Hackathon (SIH) 2025**  
-NSRIT in collaboration with AICTE.
-
----
-
-## `03 // ENGINEERING CONSOLE`
+## ⚡ DEVELOPER CONTROL ROOM
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,ts,js,react,nodejs,express,postgres,prisma,firebase,git,github,vscode&perline=14" alt="Technology stack"/>
-
-<br/><br/>
-
-| BUILD | DATA | SYSTEMS | LEARNING |
+| `STATUS` | `FOCUS` | `MISSION` | `MODE` |
 |:---:|:---:|:---:|:---:|
-| React · Flutter · TypeScript | PostgreSQL · Prisma · Firebase | Git · GitHub · REST APIs | Java · DSA · Security · AWS |
+| 🟢 ONLINE | Full Stack + Security | Become industry-ready | BUILDING |
+| 🎓 B.Tech CSE | Java + DSA | Strong fundamentals | LEARNING |
+| ☁️ Cloud path | Architecture | Deploy real systems | EXPLORING |
 
 </div>
-
-> I don't treat this icon wall as a claim of mastery. It is a map of technologies I have used or am actively learning.
-
----
-
-## `04 // PROJECT TRANSMISSIONS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ NEO VAULT SECURITY
-**Security / privacy engineering**
-
-A project space for exploring defensive software, privacy-oriented utilities and secure product thinking.
-
-[**ENTER REPOSITORY →**](https://github.com/yashransubhe-prog/Neo-Vault-Security)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 COSMOS MUSIC ENGINE
-**Cross-platform media experience**
-
-A music-product direction connected to my work on cross-platform audio, local libraries and responsive interfaces.
-
-[**ENTER REPOSITORY →**](https://github.com/yashransubhe-prog/Cosmos-Music-Engine)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏔️ JEEVANSETU
-**AI / emergency-response prototype**
-
-Work around an AI-assisted landslide and emergency-response use case developed in a hackathon context.
-
-[**ENTER REPOSITORY →**](https://github.com/yashransubhe-prog/jeevansetu)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 SOFTWARE INVESTIGATION
-**Developer tooling / security**
-
-An active engineering experiment around understanding repositories, evidence and software behavior.
-
-[**EXPLORE MY REPOSITORIES →**](https://github.com/yashransubhe-prog?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-## `05 // VERIFIED LEARNING`
-
-<div align="center">
-
-| Credential / Learning Area | Signal |
-|---|---|
-| **Cisco Cybersecurity Essentials** | Security foundations |
-| **Introduction to Cybersecurity — Cisco** | Cybersecurity fundamentals |
-| **AWS Solutions Architect Associate learning** | Cloud architecture direction |
-| **B.Tech Computer Science & Engineering — NSRIT** | Core CS foundation |
-
-</div>
-
----
-
-## `06 // GITHUB TELEMETRY`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashransubhe-prog&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8&icon_color=22D3EE" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashransubhe-prog&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8" alt="Top languages"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashransubhe-prog&bg_color=00000000&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Development%20Signal" alt="Contribution activity"/>
+## 🧠 MY TECH UNIVERSE
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,dart,ts,js,html,css&theme=dark" />
+
+### Build
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,vite&theme=dark" />
+
+### Data • Cloud • Tools
+<img src="https://skillicons.dev/icons?i=postgres,prisma,firebase,git,github,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=500&color=A78BFA&center=true&width=800&lines=Java+%E2%86%92+DSA+%E2%86%92+Problem+Solving;Flutter+%E2%86%92+Cross-platform+Experiences;React+%2B+Node+%E2%86%92+Full-stack+Products;Security+%2B+Cloud+%E2%86%92+Next+Level" />
 
 </div>
 
----
+<br/>
 
-## `07 // CURRENT MISSION`
+## 🛰️ PROJECT GALAXY
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🛡️ Neo Vault
+**Security & privacy direction**
+
+Defensive software ideas, privacy-oriented utilities and secure-product thinking.
+
+[![Open](https://img.shields.io/badge/OPEN_REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashransubhe-prog/Neo-Vault-Security)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎧 Cosmos Music
+**Cross-platform audio**
+
+Flutter/Dart product work around media, local libraries and interactive UI.
+
+[![Open](https://img.shields.io/badge/OPEN_REPO-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashransubhe-prog/Cosmos-Music-Engine)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🏔️ JeevanSetu
+**AI + emergency response**
+
+Prototype work around landslide-risk and emergency-response experiences.
+
+[![Open](https://img.shields.io/badge/OPEN_REPO-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashransubhe-prog/jeevansetu)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎮 LIVE GITHUB TELEMETRY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashransubhe-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashransubhe-prog&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=64748B" />
+
+<br/>
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashransubhe-prog&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&area_color=4C1D95&hide_border=true&custom_title=Yash%27s%20Development%20Signal" />
+
+</div>
+
+<br/>
+
+## 🐍 CONTRIBUTION ARCADE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yashransubhe-prog/yashransubhe-prog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+<sub>This animation is generated from my real GitHub contribution graph and refreshes automatically.</sub>
+
+</div>
+
+<br/>
+
+## 🏆 MILESTONES & LEARNING SIGNALS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏅 Building through competition
+**First Place — Internal Hackathon for Smart India Hackathon 2025**
+
+I like environments where a team has to turn an idea into something demonstrable under pressure.
+
+</td>
+<td width="50%">
+
+### 📚 Current learning map
+- Java + DSA for interviews
+- Full-stack product engineering
+- Cybersecurity foundations
+- Cloud architecture
+- Better system design & debugging
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🌌 CURRENT MISSION
 
 ```text
-[ CORE CS ] ──────► stronger fundamentals
-     │
-     ├──► [ JAVA + DSA ] ──────► interview problem solving
-     │
-     ├──► [ FULL STACK ] ──────► production-ready software
-     │
-     ├──► [ SECURITY ] ────────► safer systems
-     │
-     └──► [ CLOUD ] ───────────► scalable architecture
-
-                          ↓
-                   SOFTWARE ENGINEER
+                       ┌───────────────┐
+                       │   CORE CSE    │
+                       └───────┬───────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+       JAVA + DSA         FULL STACK        SECURITY
+             │                 │                 │
+             └────────────┬────┴─────┬───────────┘
+                          ▼          ▼
+                      PRODUCTS     CLOUD
+                          │          │
+                          └────┬─────┘
+                               ▼
+                    SOFTWARE ENGINEER
 ```
-
-I am currently in the phase where I want every new project to teach me something deeper than UI alone: architecture, performance, security, data flow, deployment or debugging.
-
----
-
-## `08 // CONNECT`
 
 <div align="center">
 
-### Want to talk about software, projects, hackathons or engineering?
+### I don't want a profile that only says what I know.
+### I want my work to show what I can build.
 
-<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/LinkedIn-Yash_Ransubhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/Email-yashransubhe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yashransubhe-prog&style=for-the-badge&color=7c3aed&label=PROFILE+SIGNAL" alt="Profile views"/>
-
-### `BUILD → TEST → BREAK → LEARN → REBUILD`
-
-<sub>Designed as a living engineering profile. Dynamic GitHub signals update as the work changes.</sub>
+<a href="https://www.linkedin.com/in/yash-ransubhe-252258287"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:yashransubhe@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-EMAIL-7C3AED?style=for-the-badge&logo=gmail"/></a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0891B2,50:4C1D95,100:090E1A"/>
