@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+ <linearGradient id="bg" x2="1"><stop stop-color="#07090f"/><stop offset=".5" stop-color="#111827"/><stop offset="1" stop-color="#07090f"/></linearGradient>
+ <linearGradient id="arc"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#e2e8f0"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>text{font-family:'Segoe UI',Arial,sans-serif}.m{font-family:Consolas,monospace}.p{animation:p 2.4s ease-in-out infinite}.r{transform-origin:600px 170px;animation:r 18s linear infinite}.scan{animation:s 5s linear infinite}@keyframes p{50%{opacity:.3}}@keyframes r{to{transform:rotate(360deg)}}@keyframes s{to{transform:translateX(1450px)}}</style>
+</defs>
+<rect width="1200" height="340" rx="25" fill="url(#bg)"/>
+<path d="M0 292L215 245 360 273 535 226 710 270 925 230 1200 280V340H0Z" fill="#0b1220"/>
+<circle cx="600" cy="164" r="74" fill="none" stroke="#38bdf8" stroke-width="2" opacity=".35" class="p"/>
+<circle cx="600" cy="164" r="51" fill="#0b1320" stroke="url(#arc)" stroke-width="3" filter="url(#g)"/>
+<path d="M600 120l29 88h-17l-8-25h-34l-8 25h-17l29-88h26zm-1 48-12-37-12 37h24z" fill="#e5e7eb"/>
+<g class="r" fill="#38bdf8"><circle cx="600" cy="70" r="4"/><circle cx="694" cy="164" r="4"/><circle cx="600" cy="258" r="4"/><circle cx="506" cy="164" r="4"/></g>
+<g transform="translate(58 65)"><text fill="#64748b" font-size="11" class="m">SUIT // 01</text><text y="34" fill="#f8fafc" font-size="22" font-weight="700">IRON MAN</text><text y="59" fill="#38bdf8" font-size="12" class="m">ENGINEER • ITERATE</text><path d="M0 78H180" stroke="#7f1d1d" stroke-width="3"/><text y="108" fill="#94a3b8" font-size="12">Build the system.</text></g>
+<g transform="translate(58 205)"><text fill="#64748b" font-size="11" class="m">SUIT // 02</text><text y="34" fill="#f8fafc" font-size="22" font-weight="700">CAPTAIN</text><text y="59" fill="#93c5fd" font-size="12" class="m">DISCIPLINE • CORE</text></g>
+<g transform="translate(935 65)"><text fill="#64748b" font-size="11" class="m">SUIT // 03</text><text y="34" fill="#f8fafc" font-size="22" font-weight="700">THOR</text><text y="59" fill="#c4b5fd" font-size="12" class="m">POWER • EXECUTE</text><path d="M0 78H180" stroke="#312e81" stroke-width="3"/><text y="108" fill="#94a3b8" font-size="12">Ship with impact.</text></g>
+<g transform="translate(935 205)"><text fill="#64748b" font-size="11" class="m">SUIT // 04</text><text y="34" fill="#f8fafc" font-size="22" font-weight="700">SPIDER-MAN</text><text y="59" fill="#f87171" font-size="12" class="m">CONNECT • SOLVE</text></g>
+<text x="600" y="298" text-anchor="middle" fill="#64748b" font-size="10" class="m">AVENGERS-INSPIRED ENGINEERING SYSTEM • SUBTLE BY DESIGN</text>
+<rect x="-180" width="100" height="340" fill="#fff" opacity=".035" transform="skewX(-18)" class="scan"/>
+</svg>
