@@ -1,0 +1,42 @@
+name: Daily Profile Maintenance
+
+on:
+  schedule:
+    # 03:30 UTC = 09:00 IST every day
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-maintenance:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Update maintenance log
+        run: |
+          mkdir -p .github/profile-maintenance
+          echo "$(date -u +'%Y-%m-%d') | automated profile maintenance" >> .github/profile-maintenance/activity.log
+
+      - name: Keep log compact
+        run: |
+          tail -n 90 .github/profile-maintenance/activity.log > /tmp/activity.log
+          mv /tmp/activity.log .github/profile-maintenance/activity.log
+
+      - name: Commit maintenance update
+        run: |
+          git config user.name "Yash Ransubhe"
+          git config user.email "250647461+yashransubhe-prog@users.noreply.github.com"
+          git add .github/profile-maintenance/activity.log
+
+          if git diff --cached --quiet; then
+            echo "No maintenance update needed."
+            exit 0
+          fi
+
+          git commit -m "chore: daily profile maintenance"
+          git push
