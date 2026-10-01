@@ -66,75 +66,25 @@ const currentFocus = {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/yashransubhe-prog/yashransubhe-prog/main/assets/avengers-engineering.svg" width="100%" alt="Avengers inspired engineering theme"/>
-</div>
-
-## 🦸 Avengers × Engineering
+<br/>
 
 <div align="center">
-
-> **Different strengths. One system.**  
-> A small Avengers-inspired layer for the profile — engineering first, fandom second.
-
-</div>
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
-
-### ⚙️ IRON MAN
-`BUILD`
-
-**Engineering & iteration**
-
-Prototype → test → improve.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🛡️ CAPTAIN AMERICA
-`DISCIPLINE`
-
-**Consistency & fundamentals**
-
-Strong foundations before shortcuts.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### ⚡ THOR
-`POWER`
-
-**Execution & performance**
-
-Turn ideas into working systems.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🕷️ SPIDER-MAN
-`CURIOSITY`
-
-**Learning & problem solving**
-
-Understand how everything connects.
-
-</td>
+<td align="center" width="25%"><img height="170" src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" alt="Iron Man"/></td>
+<td align="center" width="25%"><img height="170" src="https://media.giphy.com/media/xTiTnHvXHHxOTcdmxO/giphy.gif" alt="Spider-Man"/></td>
+<td align="center" width="25%"><img height="170" src="https://media.giphy.com/media/EOfarA6ZUqzZu/giphy.gif" alt="Thor"/></td>
+<td align="center" width="25%"><img height="170" src="https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif" alt="Captain America"/></td>
 </tr>
 </table>
-
-<div align="center">
-
-`ASSEMBLE THE STACK` &nbsp; • &nbsp; Java &nbsp; • &nbsp; Flutter &nbsp; • &nbsp; React &nbsp; • &nbsp; Node &nbsp; • &nbsp; Security &nbsp; • &nbsp; Cloud
 
 </div>
 
 <br/>
 
-## 🦾 Suit Up: Engineering Stack
+## Engineering Stack
 
-> **Suit up the stack.** A restrained superhero-inspired visual language around real engineering skills.
 
 <table>
 <tr>
