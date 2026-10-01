@@ -23,11 +23,25 @@ B.Tech CSE student at **NSRIT (2024–2028)** building mobile and web products w
 ## Featured Work
 
 ### 🎧 Cosmos Music
-Cross-platform audio application built with **Flutter and Dart**, with local media-library features and a performance-focused interface.
+Cross-platform audio application built with **Flutter and Dart**, focused on responsive UI, local media indexing and smooth playback experiences.
 
 `Flutter` `Dart` `Audio` `Mobile`
 
 [**View Repository →**](https://github.com/yashransubhe-prog/Cosmos-Music-Engine)
+
+### 🖥️ Nexus Present
+An **AI-powered presentation platform** designed to transform a prompt into a structured, presentation-ready deck with generated content, reusable slide layouts and fast visual editing.
+
+`AI Integration` `Presentation Automation` `UI/UX` `Product Design`
+
+[**View Repository →**](https://github.com/yashransubhe-prog/Nexus-Present)
+
+### ⚙️ Nexus Ops
+An **industrial operations management suite** for coordinating distributed teams, assignments and evidence-based workflows. Designed around role-based interfaces, real-time operational data and structured oversight for high-stakes field environments.
+
+`Flutter` `Dart` `Firebase` `RBAC` `Real-time Data`
+
+[**View Repository →**](https://github.com/yashransubhe-prog/Nexus-Ops)
 
 ### 📸 EventSnap
 Real-time event-sharing application designed around **Firebase Cloud Firestore**, media delivery and responsive image-loading workflows.
@@ -49,6 +63,18 @@ Emergency-response prototype developed in a hackathon context, exploring technol
 `AI` `Emergency Response` `Prototype`
 
 [**View Repository →**](https://github.com/yashransubhe-prog/jeevansetu)
+
+---
+
+## Nexus Dynamics
+
+**Nexus Dynamics** is an independent software development lab and innovation suite focused on building high-integrity software systems, especially products that connect operational workflows with executive-level oversight.
+
+Its current product direction includes:
+- **Nexus Present** — AI-assisted presentation generation and visual storytelling
+- **Nexus Ops** — industrial workflow, operational monitoring and role-based field management
+
+Core engineering themes include **Flutter/Dart development, Firebase-backed real-time systems, role-based access control, operational workflow design and product-focused UI/UX**.
 
 ---
 
@@ -78,6 +104,9 @@ Emergency-response prototype developed in a hackathon context, exploring technol
 
 **Zero Trust Cloud Security Virtual Internship** — EduSkills Foundation®
 
+**ServiceNow learning / VIP**  
+Focused on building familiarity with the ServiceNow ecosystem, enterprise workflows and platform-oriented development.
+
 **Cybersecurity**
 - Cisco — Introduction to Cybersecurity
 - Cisco — Junior Cybersecurity Analyst Career Path
@@ -105,7 +134,7 @@ NSRIT in collaboration with AICTE
 
 **HERITAGE — The Epic Indian History**
 
-An independent digital publication combining technology, structured historical content and responsive web design to make Indian history more accessible online.
+Independent digital publication combining software, structured historical research and responsive web design to make Indian history more accessible through a modern digital experience.
 
 ---
 
