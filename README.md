@@ -66,6 +66,10 @@ const currentFocus = {
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/yashransubhe-prog/yashransubhe-prog/main/assets/avengers-engineering.svg" width="100%" alt="Avengers inspired engineering theme"/>
+</div>
+
 ## 🦸 Avengers × Engineering
 
 <div align="center">
