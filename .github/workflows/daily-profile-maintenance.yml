@@ -1,42 +1,94 @@
-name: Daily Profile Maintenance
+name: Weekly Project Activity Review
 
 on:
   schedule:
-    # 03:30 UTC = 09:00 IST every day
-    - cron: "30 3 * * *"
+    # 09:00 IST Monday-Saturday; the weekly selection is 3 or 4 days.
+    - cron: "30 3 * * 1-6"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  daily-maintenance:
+  project-activity:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout profile repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Update maintenance log
+      - name: Choose 3-4 weekdays per week
+        id: selected
         run: |
-          mkdir -p .github/profile-maintenance
-          echo "$(date -u +'%Y-%m-%d') | automated profile maintenance" >> .github/profile-maintenance/activity.log
+          python3 - <<'PY'
+          import os, random, hashlib
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          now = datetime.now(ZoneInfo('Asia/Kolkata'))
+          year, week, _ = now.isocalendar()
+          seed = int.from_bytes(hashlib.sha256(f'{year}-{week}-cosmos-projects'.encode()).digest()[:8], 'big')
+          rng = random.Random(seed)
+          days = sorted(rng.sample(range(1, 7), rng.choice([3, 4])))
+          enabled = now.isoweekday() in days or os.environ.get('GITHUB_EVENT_NAME') == 'workflow_dispatch'
+          print(f'Weekly selected weekdays: {days}; today: {now.isoweekday()}; running: {enabled}')
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"run={'true' if enabled else 'false'}\n")
+          PY
 
-      - name: Keep log compact
+      - name: Update genuine repository activity report
+        if: steps.selected.outputs.run == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          tail -n 90 .github/profile-maintenance/activity.log > /tmp/activity.log
-          mv /tmp/activity.log .github/profile-maintenance/activity.log
+          python3 - <<'PY'
+          import os, json
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          owner = 'yashransubhe-prog'
+          names = ['Cosmos-Music-Engine', 'codeforensic', 'jeevansetu',
+                   'Nexus-Present', 'Nexus-Ops', 'Neo-Vault-Security']
+          rows = []
+          for name in names:
+              url = f'https://api.github.com/repos/{owner}/{name}/commits?per_page=1'
+              req = Request(url, headers={
+                'Accept': 'application/vnd.github+json',
+                'Authorization': 'Bearer ' + os.environ['GH_TOKEN'],
+                'User-Agent': 'nexus-profile-report'})
+              with urlopen(req, timeout=25) as response:
+                  commits = json.load(response)
+              if not commits:
+                  raise RuntimeError(f'No commits available for {name}')
+              latest = commits[0]
+              detail = latest['commit']
+              date = detail['committer']['date'][:10]
+              message = detail['message'].splitlines()[0].replace('|', '/').strip()[:100]
+              short = latest['sha'][:7]
+              rows.append(f'| [{name}](https://github.com/{owner}/{name}) | {date} | {message} | [{short}]({latest["html_url"]}) |')
+          report = '\n'.join([
+              '# Verified Public Project Activity',
+              '',
+              'Latest genuine changes in public projects. This report updates only when project commit history changes.',
+              '',
+              '| Project | Last commit (UTC) | Summary | Commit |',
+              '| --- | --- | --- | --- |',
+              *rows, ''
+          ])
+          path = Path('docs/project-activity.md')
+          path.parent.mkdir(parents=True, exist_ok=True)
+          if not path.exists() or path.read_text(encoding='utf-8') != report:
+              path.write_text(report, encoding='utf-8')
+              print('Public project activity has changed.')
+          else:
+              print('No project changes; skipping commit.')
+          PY
 
-      - name: Commit maintenance update
+      - name: Commit only actual project status changes
+        if: steps.selected.outputs.run == 'true'
         run: |
           git config user.name "Yash Ransubhe"
           git config user.email "250647461+yashransubhe-prog@users.noreply.github.com"
-          git add .github/profile-maintenance/activity.log
-
+          git add docs/project-activity.md
           if git diff --cached --quiet; then
-            echo "No maintenance update needed."
+            echo "No meaningful change found; no commit made."
             exit 0
           fi
-
-          git commit -m "chore: daily profile maintenance"
+          git commit -m "docs: update public project activity"
           git push
