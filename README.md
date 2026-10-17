@@ -47,13 +47,6 @@ An **industrial operations management suite** for coordinating distributed teams
 
 [**View Repository →**](https://github.com/yashransubhe-prog/Nexus-Ops)
 
-### 📸 EventSnap
-Real-time event-sharing application designed around **Firebase Cloud Firestore**, media delivery and responsive image-loading workflows.
-
-`Firebase` `Firestore` `Real-time Data`
-
-**Project details available on LinkedIn**
-
 ### 🛡️ Neo Vault
 Mobile security utility exploring **digital privacy, secure storage and defensive software design**.
 
